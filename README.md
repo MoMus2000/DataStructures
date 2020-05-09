@@ -1,2 +1,3 @@
-# DataStructures
-Implementation of DataStructures in Javascript with complete methods.
+# DataStructures AND ALGORITHMS
+Implementation of DataStructures in Javascript with all corresponding methods.
+Searching and Sorting Algorithms implementaions. 
