@@ -27,10 +27,4 @@ function binarySearch(arr,val){
 
 
 
-var array = []
-for(var i =2;i<100000000;i++){
-  array.push(i);
-}
 
-var x = binarySearch(array,1638400000000000000000000000000000000000);
-console.log(x);
